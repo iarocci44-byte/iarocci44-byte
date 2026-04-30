@@ -9,7 +9,7 @@ I've been learning to code using Frontend Simplified and I am currently looking 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [iarocci@hotmail.com](mailto:iarocci@hotmail.com)
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;">
   <tr>
     <td align="center" width="80"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a></td>
     <td align="center" width="80"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a></td>
