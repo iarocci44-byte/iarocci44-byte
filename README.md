@@ -1,7 +1,7 @@
 Hi 👋 My name is Christopher Iarocci
 ====================================
 
-Front End Developer
+Front End Software Engineer
 -------------------
 
 I've been learning to code using Frontend Simplified and I am currently looking for a job doing what I love. "Attention to detail" is how my mentors have described me and I'd like to take that trait and put it to work for you.
